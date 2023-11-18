@@ -24,7 +24,7 @@ target = 9
 #### Output
 [0, 1]
 
-#### Explanationcd ..
+#### Explanation ..
 
 nums[0] + nums[1] == 9, so we return [0, 1].
 
