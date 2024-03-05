@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class NSmall {
+public class NthSmall {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the array size");
